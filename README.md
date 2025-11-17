@@ -1,4 +1,4 @@
-<h1 align="center">🔐 ¡Hola! Soy Óscar Martínez</h1>
+<h1 align="center">🔐 ¡Hola! Soy Óscar</h1>
 <h3 align="center">Técnico Superior en ASIR | Estudiante de Ciberseguridad</h3>
 
 <div align="center";text-align="center">
