@@ -47,7 +47,7 @@ Soy un profesional titulado en **Administración de Sistemas Informáticos en Re
 
 ---
 
-### 🎯 **Mis Objetivos 2024**
+### 🎯 **Mis Objetivos**
 
 | ✅ Completados | 🔲 En Progreso |
 | :--- | :--- |
