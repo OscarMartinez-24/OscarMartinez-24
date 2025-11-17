@@ -22,6 +22,8 @@ Soy un profesional titulado en <strong>Administración de Sistemas Informáticos
 lenguajes = ["Python", "Bash", "PowerShell"]
 herramientas = ["Docker", "Kali Linux", "Parrot OS", "Wireshark", "Metasploit"]
 sistemas = ["Linux", "Windows Server", "Kali", "Parrot"]
+```
+<div align="center">
 📊 Mi Progreso Técnico
 Habilidad	Nivel	Estado	Descripción
 🐍 Python	🟢 Intermedio	📚 Aprendiendo	Scripting y automatización
@@ -29,6 +31,7 @@ Habilidad	Nivel	Estado	Descripción
 🔒 Ciberseguridad	🟡 Intermedio	💪 Mejorando	Ofensiva y defensiva
 🌐 Redes	🟢 Avanzado	🔄 Practicando	Configuración y seguridad
 🎯 Mis Objetivos 2024
+</div>
 <div align="center">
 ✅ Completados	🔲 En Progreso
 • Titulación ASIR	• Curso Ciberseguridad
@@ -50,4 +53,4 @@ Siempre aprendiendo	Variados estilos	Estrategia y RPG	Tiempo calidad
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=OscarMartinez-24&style=flat-square&color=blue" alt="Visitas al perfil" /> <img src="https://img.shields.io/badge/Estado-Activo%20💚-brightgreen?style=flat-square" alt="Estado" /> </p><div align="center">
 "La seguridad no es un producto, sino un proceso" - Bruce Schneier
 
-</div> ```
+</div>
