@@ -18,7 +18,7 @@ Soy un profesional titulado en <strong>Administración de Sistemas Informáticos
 ## 🛠️ **Tecnologías y Herramientas**
 
 ### **🔧 Stack en Aprendizaje**
-```python
+
 lenguajes = ["Python", "Bash", "PowerShell"]
 herramientas = ["Docker", "Kali Linux", "Parrot OS", "Wireshark", "Metasploit"]
 sistemas = ["Linux", "Windows Server", "Kali", "Parrot"]
