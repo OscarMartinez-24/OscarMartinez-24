@@ -42,7 +42,7 @@ Soy un profesional titulado en **Administración de Sistemas Informáticos en Re
 | :--- | :--- | :--- | :--- |
 | 🐍 Python | 🟢 Intermedio | 📚 Aprendiendo | Scripting |
 | 🐧 Linux | 🟣 Avanzado | 🚀 Mejorando | Administración y seguridad |
-| 🔒 Ciberseguridad | 🟢 Intermedio | 💪 Mejorando | Ofensiva y defensiva |
+| 🔒 Ciberseguridad | 🟢 Intermedio | 🚀 Mejorando | Ofensiva y defensiva |
 | 🌐 Redes | 🟣 Avanzado | 🔄 Practicando | Configuración y seguridad |
 
 ---
