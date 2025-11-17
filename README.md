@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy Óscar
+<h2>👋 ¡Hola! Soy Óscar</h2>
 Técnico Superior en ASIR | Estudiante de Ciberseguridad
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&width=435&lines=Ciberseguridad;Redes;Sistemas+Linux+y+Windows" alt="Typing SVG" /> </p>
 Soy un estudiante apasionado por el mundo de la seguridad informática. Estoy titulado en Administración de Sistemas en Informáticos en Red (ASIR) y actualmente realizo el Curso de Especialización en Ciberseguridad.
