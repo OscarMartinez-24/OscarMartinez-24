@@ -2,7 +2,7 @@
 <h3 align="center">Técnico Superior en ASIR | Estudiante de Ciberseguridad</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03A062&width=500&lines=Apasionado+por+la+Ciberseguridad;Especialista+en+Redes+y+Sistemas;Linux+%7C+Windows+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=#2EFF3C&width=500&lines=Apasionado+por+la+Ciberseguridad;Especialista+en+Redes+y+Sistemas;Linux+%7C+Windows+%7C+Python" alt="Typing SVG" />
 </div>
 
 ---
