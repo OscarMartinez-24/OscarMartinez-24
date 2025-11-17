@@ -17,12 +17,11 @@ Soy un profesional titulado en **Administración de Sistemas Informáticos en Re
 
 ### **💻 Stack de Ciberseguridad y Sistemas**
 
-Aquí te dejo las tecnologías en las que trabajo y me especializo:
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/PowerShell-5391F9?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   
   <br>
 
@@ -33,15 +32,12 @@ Aquí te dejo las tecnologías en las que trabajo y me especializo:
   <br>
   
   <img src="https://img.shields.io/badge/Kali%20Linux-5C5C5C?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-E51937?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-52CC5C?style=for-the-badge&logo=parrotsecurity&logoColor=white" alt="Parrot OS" />
 </p>
 
 ---
 
 ### 📊 **Mi Progreso Técnico**
-
-He reformateado esta sección como una tabla Markdown estándar para una mejor visualización.
 
 | Habilidad | Nivel | Estado | Descripción |
 | :--- | :--- | :--- | :--- |
@@ -53,8 +49,6 @@ He reformateado esta sección como una tabla Markdown estándar para una mejor v
 ---
 
 ### 🎯 **Mis Objetivos 2024**
-
-He ajustado el formato para que se muestre como una lista de objetivos clara:
 
 | ✅ Completados | 🔲 En Progreso |
 | :--- | :--- |
